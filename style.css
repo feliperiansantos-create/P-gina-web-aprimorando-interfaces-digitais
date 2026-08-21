@@ -10,7 +10,7 @@ header {
 }
 
 main {
-  background-color: #6b0101f7;
+  background-color: #d52e2ef7;
   color: #f0d0d0;
   text-align: center;
   margin: 0 auto;
@@ -30,7 +30,7 @@ main {
   text-align: left;
 }
 
-.item-recurso {
+.texto {
   margin-bottom: 15px;
   background-color: rgba(0, 0, 0, 0.2);
   padding: 12px;
